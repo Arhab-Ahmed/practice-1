@@ -1,0 +1,34 @@
+.header-img{
+    background-image: url('../donate-today-main/images/donation13.jpg');
+    height: 600px;
+    width: 1300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+h2{
+    text-align: center;
+    padding-top: 200px;
+    color: #FFF;
+    font-weight: 700px;
+    font-size: 65px;
+}
+p{
+    text-align: center;
+    color: #FFF;
+}
+button{
+    background: orange;
+    border-radius: 10px;
+}
+.button{
+    text-align: center;
+}
+.primary-btn{
+    text-align: center;
+    color: white;
+    padding: 15px;
+    font-weight: 700;
+
+}
+
