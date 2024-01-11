@@ -89,7 +89,47 @@ button{
     font-weight: 400px;
 }
 /* our donate plan styles */
-    
+.plans-container{
+    display: flex;
+    gap: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.plans-bar-1{
+    padding: 30px;
+    margin-left: 20px;
+    border-radius: 5px;
+    background: rgba(79, 157, 166, 0.10);
+}
+
+.plans-bar-2{
+    padding: 30px;
+    margin-left: 20px;
+    border-radius: 5px;
+    background: rgba(255, 89, 89, 0.10);
+
+}
+.plans-bar-3{
+    padding: 30px;
+    margin-left: 20px;
+    border-radius: 5px;
+    background: #FFF4D6;
+
+}
+.plans-title{
+    color: black;
+    font-size: 24px;
+    font-weight: 600;
+}
+.plans-discription{
+    color: #707070;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+  
 
 
 
