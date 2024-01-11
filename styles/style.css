@@ -42,14 +42,15 @@ button{
 .Donate-today{
     text-align: center;
 }
-.Donate-title{
+.title{
     font-size: 50px;
     font-weight: 800;
     color: black;
     padding-top: 130px;
+    text-align: center;
 
 }
-.donate-discription{
+.discription{
     color: #707070;
     font-size: 18px;
     text-align: center;
@@ -87,6 +88,10 @@ button{
     font-size: 18px;
     font-weight: 400px;
 }
+/* our donate plan styles */
+    
+
+
 
 
 
